@@ -1,3 +1,4 @@
+{	
 	"file": "https://raw.githubusercontent.com/hveilleux/Test/master/20181121DevelUpsetR.csv",
 	"name": "Devel",
 	"header": 0,
@@ -9,3 +10,4 @@
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 9 }
 	]
+}
